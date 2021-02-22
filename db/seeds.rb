@@ -7,9 +7,9 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Character.create([
 
-	{ name: "Neo", description: false },
-	{ name: "Trinity", description: false },
-	{ name: "Morpheus", description: false },
-	{ name: "Agent Smith", description: false },
+	{ name: "Neo", description: "Neo (born as Thomas A. Anderson, also known as The One, an anagram for Neo) is a fictional character and the protagonist of the Matrix franchise." },
+	{ name: "Trinity", description: "Like the series' other main characters, Trinity is a computer programmer and a hacker who has escaped from the Matrix, a sophisticated computer program where most humans are imprisoned. " },
+	{ name: "Morpheus", description: "In the Matrix films, Morpheus is the captain of the Nebuchadnezzar, which is a hovercraft of the human forces of the last human city, Zion, in a devastated world where most humans are grown by sentient machines and kept imprisoned in the Matrix, a virtual computer-generated world. Morpheus was once a human living inside the Matrix until he was freed." },
+	{ name: "Agent Smith", description: "Smith began as an Agent, an AI program in the Matrix programmed to keep order within the system by terminating human simulacra which would bring instability to the simulated reality, as well as any rogue programs that no longer serve a purpose to the Machine collective." },
 
 ])
